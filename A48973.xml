@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules and directions prescribed and made for the pitching and levelling the streets and lanes of the city of London, and liberties, for the more easie and convenient current and conveyance away of the waters thereof concluded and agreed on by the commissioners and surveyors hereunto authorized and appointed ...</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48973</idno>
+            <idno type="STC">Wing L2851C</idno>
+            <idno type="STC">ESTC R41031</idno>
+            <idno type="EEBO-CITATION">19579063</idno>
+            <idno type="OCLC">ocm 19579063</idno>
+            <idno type="VID">109146</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48973)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109146)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1691:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules and directions prescribed and made for the pitching and levelling the streets and lanes of the city of London, and liberties, for the more easie and convenient current and conveyance away of the waters thereof concluded and agreed on by the commissioners and surveyors hereunto authorized and appointed ...</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N. Brooke ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Imperfect: faded.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sewerage --  Law and legislation --  England --  London.</term>
+               <term>Public works --  Law and legislation --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_regulations">
+            <pb facs="tcp:109146:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>blazon of the City of London</figDesc>
+               </figure>
+            </head>
+            <head>Rules and Directions preſcribed and made for the Pitching and Levelling the Streets and Lanes of the City of <hi>London,</hi> and Liberties, for the more eaſie and convenient Current and Conveyance away of the Waters thereof; Concluded and Agreed on by the Commiſſioners and Surveyors hereunto Authorized and Appointed, <hi>Viz.</hi>
+            </head>
+            <list>
+               <item>1. TOwer-Dock in <hi>Thames-</hi>ſtreet is to be raiſed 3 foot. At 147 foot upwards from <hi>Thames-</hi>ſtreet to be raiſed 2 foot 10 inches: at the higheſt part in <hi>Tower-</hi>ſtreet againſt the middle of St. <hi>Allhallowes Barking</hi> Church-yard, to be ſunk 6 inches.</item>
+               <item>2. Beer-Lane is to be raiſed at <hi>Thames-</hi>ſtreet 8 foot; at 90 foot upwards 4 foot: And to be abated at 192 foot upwards, 3 inches, and at <hi>Tower-</hi>ſtreet 6 <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nches.</item>
+               <item>3. <hi>Water-</hi>Lane is to be raiſed at <hi>Thames-</hi>ſtreet 6 foot: at 83 f. upwards nothing: and to be abated at 128 f. upwards, 1 f. 11 inch: at <hi>Tower-</hi>ſtreet 3 ft 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in.</item>
+               <item>i<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 4. <hi>Harp-</hi>Lane is to be raiſed in <hi>Thames-</hi>ſtreet, 7 f. at 100 f. upwards, 4 f. 7 inches, and to be abated at 180 f. 1 f. 6. inches: at 270 f. 6. f. 4 in. at <hi>Tower</hi>
+                  <g ref="char:EOLhyphen"/>ſtreet, 6 f. 4 inches.</item>
+               <item>5 <hi>Idle-</hi>Lane is to be raiſed in <hi>Thames-</hi>ſtreet 7 f. at 90 f. upwards, 4 f. 2 inches, and to be abated at 165 f. upwards 2 f. 3 inches. at 262 f. 5. f. 10 inches. in <hi>Tower-</hi>ſtreet, 3 f. 6 in.</item>
+               <item>6. St. <hi>Dunſtans</hi> hill, beginning at <hi>Idle-</hi>Lane, is to be raiſed 4 f. 2 in. at 76 f. upwards, 3 f. 3 in. at 126 f. 1 f. and to be abated at 226 f. 2 f. 1 inch: at <hi>Tower-</hi>ſtreet, 2 f. 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inches.</item>
+               <item>7. St. <hi>Mary-</hi>Hill is to be raiſed in <hi>Thames-</hi>ſtreet 5 f. at 87 f. upwards, 2 f. 6 inches. and to be abated at 187 f. 1 f. 8 in. at 287. 5 f. 8 in. at 387. 6 f. 4 in. at little <hi>Eaſt-Cheap,</hi> 3 <gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 8.</item>
+               <item>8. <hi>Love-</hi>Lane is to be raiſed in <hi>Thames-</hi>ſtreet 4 foot. at 100 f. upwards, 6 foot: at 200. two foot 3 inches, and to be abated at 270 f. 3 f. 10 inches; at 370 f. 8 f. at 470 f. 3 f. 5 in at <hi>Ea<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t-cheap</hi> 3 f. 10 inches.</item>
+               <item>9. <hi>Butolphs-</hi>Lane is to be raiſed at <hi>Thames-</hi>ſtreet 4 f. at 133 f. upwards 4 f. 5 in. at 233 f. 10 in. and to be abated at 333 f. 2 f. at 433 f. 2 f. at <hi>Eaſt-cheap,</hi> 3 in.</item>
+               <item>10. <hi>Pudding-</hi>Lane is to be raiſed in <hi>Thames-</hi>ſtreet 7 f. at 115 f. 5 f. 5 in. at 212 f. 1 f. 8 in. and to be abated at 300 f. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> f. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in. at 400 f. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> f. at 400 f. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> f. at <hi>Eaſt-cheap,</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> f. 9 in.</item>
+               <item>11. <hi>N<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w-F<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh-ſtreet-</hi>Hill is to be raiſed at <hi>Thames-ſtreet</hi> 2 f. at 80 f. upwards, 2 f. and to be abated at 280 f. nothing at 380 f. 2 f. 9. in. at <hi>East-cheap,</hi> 4 f.</item>
+               <item>12. St. <hi>Michaels-</hi>Lane is to be raiſed in <hi>Thames</hi> ſtreet 7. f. at 80 f. upwards, 6 f. 9 in. at 280 f. 6 f. 6. in. at 380 f. 2 f. 10 in. and to be abated at 380 f. 8 in. at <hi>Eaſt-cheap,</hi> 5 in the Current of it is 13 in. upon 20 f.</item>
+               <item>13. St. <hi>Martens-</hi>Lane is to be raiſed in <hi>Thames-</hi>ſtreet 6. f. at 103 f. 6 f. at 203 f. 4 f. 3. in. at 303 f. 2 in. and to be abated at 403 f. 2 f. 1 in. at <hi>Cannon-</hi>ſtreet, 2 f. 8 in.</item>
+               <item>14. <hi>Green-Lettice,</hi> and <hi>Ducks-field-</hi>Lanes are to be raiſed at <hi>Thames-</hi>ſtreet 3 f. at 135 f. 1 f. 10 in. and abated at 235 f. 2 f. 11. in. at 297 f. 4 f. 5. in. at 397 f. 5 f. 5 in. at <hi>Cannon</hi> ſtreet, 10 in.</item>
+               <item>15. St. <hi>Lawrence-Poutney-</hi>Lane is to be raiſed in <hi>Thames-</hi>ſtreet, 4 f. at 157 f. 3 f. 7 in. and abated at 261 f. 11 in. at 361 f. 4 f. at <hi>Cannon-</hi>ſtreet, 2 f. 8. in.</item>
+               <item>16. <hi>Suffolk-</hi>Lane is to be raiſed in <hi>Thames-</hi>ſtreet 3 f. at 110 f. upward, 2 in. And to be abated at 190 f. 3 f. 6 in. at 290 f. 7 f. 9. in. at the entrance into <hi>Ducks-field-</hi>Lone, 4 f. and 4 inches.</item>
+               <item>17. <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſh-</hi>Lane is to be raiſed in <hi>Thames-</hi>ſtreet, 3 f. at 103 f. 2 f. and to be abated at 203 f. 8 in. at 303 f. 4. f. 4. in. in <hi>Cannon-</hi>ſtreet, nothing.</item>
+               <item>18. <hi>Dowgate</hi> is to be raiſed in <hi>Thames-</hi>ſtreet, 3 f. at 134 f. 1 f. 4. in. and to be abated at 288 f. 1 f. 8. in. the Current 1. upon 34.</item>
+               <item>19. <hi>Colledge-</hi>hill is to be raiſed at <hi>Thames-</hi>ſtreet 3 f. at 216 f. 3 in. the Current 1. upon 35.</item>
+               <item>20. <hi>Garlick-</hi>hill is to be raiſed at <hi>Thames-</hi>ſtreet, 3 f. at 216 f. 11 in. the Current 1. upon 26.</item>
+               <item>21 <hi>Little Trinity-</hi>Lane is to be raiſed in <hi>Thames-</hi>ſtreet 4 f. at 75 f. 2 f. 11 in. and to be abated at 150 f. 1 f. 4 in. at 250 f. 3 f. at <hi>Great Trinity-</hi>Lane, 1 f. 6 f. Current 1, upon 18.</item>
+               <item>22. <hi>Huggen-</hi>Lane is to be raiſed in <hi>Thames-</hi>ſtreet, 4 f. at 63 f. 3 f. 1 in. And abated at 153 f. 1 f. 10 in. at 253 f. 5. 7. at <hi>Trinity-</hi>Lane, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> f. Current upon 18½.</item>
+               <item>23. <hi>Bread-</hi>ſtreet-hill is to be raiſed in <hi>Thames-</hi>ſtreet 4 f. at 53 f. 3 f. at 153 f. 31 in. and abated at 253 f. 2 f. 11. in. at <hi>Trinity</hi> Lane end, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> f. 6 in. C<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>nt 1. upon 20,</item>
+               <item>24. <hi>Old Fiſh-ſtreet</hi> hill is to be raiſed at <hi>Thames-ſtreet</hi> 4 f. And abated at 100 f. 1 f. 7 in at 200 f. 4 f. 9 in. at 300 f. 3 f. Current <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> upon 16.</item>
+               <item>25. <hi>Lambeth-</hi>hill is to be raiſed in <hi>Thames-</hi>ſtreet 4 f. at 73 f. 11 in. And to be abated at 173 f. 3 f 6 in. At <hi>Old Fiſh-ſtreet,</hi> 3 f. Current 1. upon 17½.</item>
+               <item>26. The <hi>Old Change</hi> is to be abated at <hi>Fiſh-ſtreet</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> f. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in. At St. <hi>Auſtins-</hi> Gate 1 ft. 9 in. The Current 1 upon 68.</item>
+               <item>27. St. <hi>Pauls Chain,</hi> or St. <hi>Bennets-</hi>hill, is to be raiſed in <hi>Thames-</hi>ſtreet, 8 f. at 100 f. 3 f. 14 in. And to be abated at 190 f. 2 f. 5 in. At 340 f. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> f. 3 in. At 490. f. 1 f. In St. <hi>Pauls</hi> Church-yard as it was.</item>
+               <item>28 <hi>Puddle-</hi>Dock is to be raiſed at <hi>Thames-</hi>ſtreet end 8 f. At 56 f. 6 f. 2 in. At 196 f. 3 f. 3 in. At 286 f. 3 f. 3 in. At 386 f. 9 in. And to be abated at <hi>Car<g ref="char:EOLhyphen"/>ter</hi> Lane, 1 f. 7 in.</item>
+               <item>29. <hi>Creed-</hi>Lane, at <hi>Carter-</hi>Lane end is to be abated 3 f. and ſo gradually to <hi>Ludgate-</hi>hill.</item>
+               <item>30. <hi>Ludgate</hi> hill is to be raiſed at <hi>Fleet-</hi>Bridge, 6 f. at 200 f. upwards, 8 f. 7. at 300 f. 5 f. 2½ At 400 f. 11 inch. And to be abated at <hi>Ludgate</hi> 10 inch. At <hi>Ave-Mary-</hi>Lane end, 1 f. 8 inch. At St. <hi>Pauls</hi> Church-yard, 0, 0.</item>
+               <item>31. <hi>Mark-</hi>Lane is to be abated at the ending in <hi>Tower-</hi>ſtreet, 3 f. and ſo gradually to about 150 foot up the Lane.</item>
+               <item>32. <hi>Rood-</hi>Lane is to be abated all the length of it. I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Eaſtcheap</hi> 3 f. 8 inches. in <hi>Fan-Church-</hi>ſtreet 1 foot. The deſcent for the Current is 1 upon 41.</item>
+               <item>33. <hi>Grace-Church</hi> ſtreet is to be ſunk at <hi>Eaſtcheap</hi> 4 foot: at the Conduit 4 foot: at <hi>Lumbard-</hi>ſtreet end 2 foot 10 inches. The deſcent for the Cur<g ref="char:EOLhyphen"/>rent 1. upon 68.</item>
+               <item>34. <hi>Cannon-</hi>ſtreet is to be abated in <hi>Eaſtcheap,</hi> at <hi>Grace-Church-</hi>ſtreet 4 foot: the higheſt ground at 200 foot within the ſtreet near St. <hi>Michaels</hi> Lane end the other parts of it are to be ſunk according to the endings of the ſtreets before mentioned.</item>
+               <item>35. <hi>Lumbard-</hi>ſtreet is to be abated at <hi>Grace-Church-</hi>ſtreet 2 f. 10. and ſo gradually to about 250 foot within the ſtreet, where is to be the higheſt ground of it.</item>
+               <item>36. <hi>Bread-</hi>ſtreet is to be abated at <hi>Trinity-</hi>Lane end 3 foot 6 inch. at <hi>Watling-</hi>ſtreet 3 f. 2 inches, and ſo gradually to <hi>Cheapſide,</hi> the Deſcent for its Cur<g ref="char:EOLhyphen"/>rent 1 upon 60.</item>
+               <item>37. <hi>Fryday-</hi>ſtreet is to be abated at <hi>Old Fiſh-ſtreet</hi> 3 foot, at <hi>Watling-</hi>ſtreet 2 foot. The Current 1. upon 70.</item>
+               <item>38. <hi>Watling-</hi>ſtreet is to be abated at the places mentioned.</item>
+               <item>39. <hi>Cheapſide,</hi> about <hi>Woodſtreet</hi> end is to be raiſed 2 foot, and ſo gradually Eaſtward and Weſtward, and that raiſing to end at the <hi>Old Change</hi> Weſtward, and <hi>S<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>per-</hi>Lane <hi>Eaſtward.</hi>
+               </item>
+               <item>40 The <hi>Stocks</hi> to be abated 2 foot, and that abatement to be gradually extended into <hi>Cornhil, Lumbard-</hi>ſtreet, <hi>Thredneedle-</hi>ſtreet, and the <hi>Poultry,</hi> and a little way into <hi>Wallbrook,</hi> which about the South-end of the Church-yard of St. <hi>Mary Wool-Church,</hi> is to be raiſed about 2 f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot, that the Current of the Water that way may be ſtopt and turned back toward the <hi>Stocks,</hi> whence it is to be conveyed by a grated Sewer into the main Sewer not far diſtant.</item>
+            </list>
+            <closer>
+               <dateline>AT a Meeting of the Commiſſioners and Surveyors appointed in purſuance of a Late Act of Parliament for Deſigning and ſetting out the Numbers and Places of all Common Sewers, Dreyns, and Vaults, and the Order and manner of Pitching and Paving the Streets and Lanes of the City of <hi>London,</hi> and Liberties thereof, in the Guild-Hall <hi>London,</hi> on <date>
+                     <hi>Monday</hi> the Eighth day of <hi>July, Anno Dom.</hi> 1667. And in the Nineteenth Year of the Reign of of our Soveraign Lord <hi>Charles</hi> the Second, King of <hi>England,</hi> &amp;c.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Ordered,</hi>
+                  <lb/> That the Rules and Directions above preſcribed be forthwith imprinted and diſperſed in all convenient places within this City and Liberties, and all Builders, and other Perſons that are or ſhall be herein concerned, are enjoned hereby to have reſpect to the ſame Rules and Directions in their Buildings.</p>
+               <closer>
+                  <signed>
+                     <hi>William Newman,</hi> Clerk to the ſaid Commiſsioners.</signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for N. <hi>Brooke,</hi> Stationer, at the <hi>Angel</hi> in <hi>Greſham-</hi>Colledge, in the ſecond Court-yard leading from <hi>Biſhopsgate-</hi>ſtreet, 1667.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
